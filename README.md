@@ -14,7 +14,7 @@ Complete B.Sc in CSE
 - How to reach me: ... linkedin @ www.linkedin.com/in/sajedul559
 - I’m looking help  ...for a job
 - I’m currently seekin a job or internship ...
-- Fun fact: ...I spend almost 12 hourse learning We Development 
+- Fun fact: ...I spend almost 12 hourse learning We Development in Everyday
 
 <img src="https://github-readme-status.vercel.app/api?username=sajedul559&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 

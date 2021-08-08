@@ -1,5 +1,6 @@
 ###  Hi there, im Sajedul Islam   👋
-Complete B.Sc in CSE
+I'm a Bachelor of Computer Science & Engineer(BCSE) graduate, specialized in Web developer.
+
                                              
                           
 

@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sajedul559" alt="sajedul559" /></a> </p>
 
-- 🔭 I’m currently working on **Ecommerce**
+- 🔭 I’m currently working on **Ecommerce Project**
 
 - 🌱 I’m currently learning **ReactJs**
 
@@ -35,6 +35,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sajedul559&show_icons=true&locale=en&layout=compact" alt="sajedul559" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sajedul559&show_icons=true&locale=en" alt="sajedul559" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=sajedul559&show_icons=true&locale=en" alt="sajedul559" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sajedul559&" alt="sajedul559" /></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=sajedul559&" alt="sajedul559" /></p>

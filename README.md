@@ -1,20 +1,40 @@
-###  Hi there, im Sajedul Islam   👋
-Complete B.Sc in CSE
-                                             
-                          
+<h1 align="center">Hi 👋, I'm Sajedul</h1>
+<h3 align="center">A passionate Web developer from Bangladesh</h3>
 
-- I’m currently learning ... React Js
-- I love learn ...which i don't know
-- Programming Language:... PHP,JavaScript
-- Front End:... HTML, CSS
-- Database:... MySQL
-- Front End Framework:... ReactJs, Bootstrap, jQuery
-- Back End Framework:... Laravel Framework
-- Ask me about ...PHP,Laravel,SQL,HTML,CSS,Bootstrap,Javascript,JQuery
-- How to reach me: ... linkedin @ www.linkedin.com/in/sajedul559
-- I’m looking help  ...for a job
-- I’m currently seekin a job or internship ...
-- Fun fact: ...I spend almost 12 hourse learning We Development in Everyday
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sajedul559&label=Profile%20views&color=0e75b6&style=flat" alt="sajedul559" /> </p>
 
-<img src="https://github-readme-status.vercel.app/api?username=sajedul559&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sajedul559" alt="sajedul559" /></a> </p>
 
+- 🔭 I’m currently working on **Ecommerce**
+
+- 🌱 I’m currently learning **ReactJs**
+
+- 👯 I’m looking help for a **Job**
+
+- 🤝 I’m seeking a **Job**
+
+- 💬 Ask me about **Laravel, PHP**
+
+- 📫 How to reach me **sajedulkhairul@gmail.com**
+
+- 📄 Know about my experiences [www.freelancersajadul.com](www.freelancersajadul.com)
+
+- ⚡ Fun fact **I never sleep when i'm tired. I sleep only when i'm Done!**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/www.linkedin.com/in/sajedul559" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/sajedul559" height="30" width="40" /></a>
+<a href="https://fb.com/https://www.facebook.com/sajedul559" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/sajedul559" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+
+<h3 align="left">Support:</h3>
+<p><a href="https://www.buymeacoffee.com/sajedul"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="sajedul" /></a></p><br><br>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sajedul559&show_icons=true&locale=en&layout=compact" alt="sajedul559" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sajedul559&show_icons=true&locale=en" alt="sajedul559" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sajedul559&" alt="sajedul559" /></p>

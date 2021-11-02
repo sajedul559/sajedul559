@@ -5,15 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sajedul559" alt="sajedul559" /></a> </p>
 
-- 🔭 I’m currently working on **Ecommerce Project**
-
-- 🌱 I’m currently learning **ReactJs**
-
-- 👯 I’m looking help for a **Job**
-
-- 🤝 I’m seeking a **Job**
-
-- 💬 Ask me about **Laravel, PHP**
+- 💬 Ask me about ** Web Design & Development **
 
 - 📫 How to reach me **sajedulkhairul@gmail.com**
 

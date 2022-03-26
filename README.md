@@ -6,10 +6,9 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sajedul559" alt="sajedul559" /></a> </p>
 
 - 💬 Ask me about ** Web Design & Development **
+- 🌱 I’m currently learning Vue Js 
 
 - 📫 How to reach me **sajedulkhairul@gmail.com**
-
-- 📄 Know about my experiences www.http://sajedulcu43.ezyro.com
 
 - ⚡ Fun fact **I never sleep when i'm tired. I sleep only when i'm Done!**
 

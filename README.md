@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sajedul</h1>
 <h3 align="center">A passionate Web developer from Bangladesh</h3>
-[![trophy](https://github-profile-trophy.vercel.app/?username=sajedul559)](https://github.com/sajedul559/github-profile-trophy)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sajedul559&label=Profile%20views&color=0e75b6&style=flat" alt="sajedul559" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sajedul559" alt="sajedul559" /></a> </p>

@@ -5,7 +5,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sajedul559" alt="sajedul559" /></a> </p>
 
 - 💬 Ask me about ** Web Design & Development **
-- 🌱 I’m currently learning Vue Js 
+- 🌱 I’m currently learning React  
 
 - 📫 How to reach me **sajedulkhairul@gmail.com**
 
